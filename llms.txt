@@ -1,0 +1,25 @@
+# meta-autoresearch
+
+> A catalog of auto research skills, AI research agents, and scientific workflows, organized by task and documented experience.
+
+## Shared index
+
+- [Structured index](catalog.json): canonical entry IDs, categories, upstream URLs, component types, and scoped experience notes for 30 unique entries across 10 categories.
+
+## English
+
+- [Overview](README.md): category map, task routes, and experience definitions.
+- [Task catalog](CATALOG.md): research pipelines, skill suites, literature, experiments, figures, writing, citations, review, submission, and presentations.
+- [Experience notes](TRIALS.md): what has and has not been evaluated.
+- [Entry format](ENTRY_TEMPLATE.md): fields for a proposed addition.
+
+## Simplified Chinese
+
+- [Overview](README.zh-CN.md): Chinese category map and task routes.
+- [Task catalog](CATALOG.zh-CN.md): Chinese descriptions of the same entries and usage scope.
+- [Experience notes](TRIALS.zh-CN.md): Chinese evidence and limitations.
+- [Entry format](ENTRY_TEMPLATE.zh-CN.md): Chinese entry guidance.
+
+Used means a stated component or subset was applied to a real task. Code-tested means specific code was investigated and tested. Inspected means source or documentation was read without confirmed personal execution. These labels are not quality scores.
+
+A null upstream URL indicates unresolved local provenance, not a public installation source. Prefer original upstream documentation for installation and current behavior. This navigation file is optional reading assistance; it does not establish search indexing or ranking.
