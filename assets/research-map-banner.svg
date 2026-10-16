@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">meta-autoresearch</title><desc id="desc">Research tools, organized around the work. An original purple editorial banner.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#241343"/><stop offset="1" stop-color="#59309b"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+<circle cx="1080" cy="60" r="150" fill="#a78bfa" opacity=".12"/><circle cx="1120" cy="270" r="100" fill="#c4b5fd" opacity=".14"/>
+<path d="M900 0v300M940 0v300M980 0v300M1020 0v300M1060 0v300M1100 0v300M1140 0v300M1180 0v300" stroke="#ddd6fe" opacity=".06"/>
+<rect x="60" y="48" width="42" height="5" rx="2" fill="#c4b5fd"/>
+<text x="60" y="101" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="4" fill="#ddd6fe">A FIELD GUIDE FOR RESEARCH WORK</text>
+<text x="56" y="175" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="700" letter-spacing="-2" fill="#fff">meta-autoresearch</text>
+<text x="60" y="222" font-family="Arial,Helvetica,sans-serif" font-size="22" fill="#e9ddff">Find the task. Read the evidence. Go upstream.</text>
+</svg>
